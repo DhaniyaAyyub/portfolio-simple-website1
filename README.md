@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/portfolio-website.git
+link
 Navigate to the project directory:
 
 bash
